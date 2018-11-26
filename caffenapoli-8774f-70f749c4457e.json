@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "caffenapoli-8774f",
+  "private_key_id": "70f749c4457eb18bc1bca6dc4d7d8fc066223894",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrcT1YrpKiktMq\nOBDrCWKT0ecllRZA5ad99fZqizVVGbYySbM9n1+x1WdT5kLT5IVBD4zycXc2HGtq\nI5bCXYfY3S0B3LQ0QDwkFLaEH+8sTGFz2MOvSsAaQZ4nNEo3W8/fO1DiaWRppUd6\nc+pEeKJZ+WPK8I9Vw2qF2n0dtcjJhYypPEgVqPtBA+/0VW7yGuyms4KuoM9qNmxK\npI5c03DR7ZjvkayUYeGJ3HzuTlaTVjASJCpr81KH4HAhZg3oDm1xRZnALOPjUXIN\nQ9p5zk8pvtgZqdy5wcw5Mo7tUkCVNMH4OC2ZbT5voxOeA0EpxhSjy45MV3aglFFr\n5DHfiWb/AgMBAAECggEARSUm2N2PxoHxKNXz/NeMKpI956p5jzMQmnzZJZ9/oxL7\nqMyQvgnJTrADPJNh4JQKKnNbJW0d53UO3X/9DecrIwwRWu7ovyopF2RDOIaor/Ue\nWNrUEZ7UW8KbRrSQOkONUztZI/fdx74hVgHqOjNtR1yOIwtiw/RMwi+cxp7KnHvX\neB4xRcRkrvQ6iDSpk3d4bkQIMVRWgAryOwyRFL9VwX5q9Ut+LqJqVn/HPP6+60lx\neNAg1Ht2bUH+R01Rb4T8JenHML11YG96IKYiyKZRx1ALBdgNcz90vJvhQrOwpl6G\nYpeHrFmHZgakHIcl8qf/0OIFXmG1o6xaEw21K1cqAQKBgQDWD5uaN8SNgtjriZvY\n9/N3fxdr2pUSk1qzWL10TiZK15NHjFej4RBE0LlRJyV+HiWBJYvx/N9LkSQUcNIA\nEGIfeHVBniPsZ6WMymy+7NPOin9MvRFsJIpM/Txt7t+vCVsCInG4MMwSTCdbI2po\nPS3M4OjIF7SnMvXX4ouLZ40zMwKBgQDNCA/aJeVB2w9Xgw/iI/vz3AWOkDSSfeUn\nOJPsfDtNo/9je35W2+naxvxztl2SoH+/BMDh62UfXRXQwJUN34OXUbSiQjjyPBbf\nhrY42cCZmBos7oqduQsZnbzQHdtyTRkpMxVkA+Q8QlcNDvF2bWO5Q3znDdOVusWM\nI04IeRr9BQKBgA4ajSgGEJ86RcyPDoOnIpV2/DYQ+s10g/9ZE3J8S62Wso9+Qa/8\nfjPqhKtCJwg+OD5gGO5iuNujvnrSTCPQ8IYeS6t9HeTPl2rFU5DozbPIEEcgFevI\nJIyaCsc7e+Vuel6TomZ+YJO8DMPGe5ZOoZvkHbJBTZfOlcAZnxQaSIVdAoGBAJ9V\nboxG+tys0kVd0tAYysn96EucAV7+e0B5lWsoOCXkFqpG5C24BQpBrRp3VEyIcf4O\nQZ7QAevXuQZbQvpfArJrioa2E+8bh2L6G04e2rACJgVY81wS229yx7KsIUe4Zp8/\n1ZW9+HZjz6aUQE2aQO9OZRhiBFXNqYt4PEIVa0XJAoGBAI5pp/rlv2y82zs0nkq2\nXSCtpfFYsbHy4Fs4aE/36E9/fg/bHcap/CCevn8JjgDjrb8vo5ntFUs9bl5Fckt1\n81Q0zt6el1ALoFaIxw7uULFh7sZgOyR5FSomWVzManONHIcrtiCnjCatPiMarnJo\nstcM1gk0594icZ/HSv3RYJZT\n-----END PRIVATE KEY-----\n",
+  "client_email": "bytesserviceaccount@caffenapoli-8774f.iam.gserviceaccount.com",
+  "client_id": "118380410230086990700",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bytesserviceaccount%40caffenapoli-8774f.iam.gserviceaccount.com"
+}
